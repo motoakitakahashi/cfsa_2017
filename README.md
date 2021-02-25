@@ -19,4 +19,5 @@ Therefore I made a concordance table that maps identifiers for CFS areas in the 
 - geottl_trade: the names of CFS areas in the trade data
 
 Motoaki Takahashi
+
 February 25, 2021
