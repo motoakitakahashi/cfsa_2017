@@ -1,7 +1,7 @@
 # A Concordance Table for CFS 2017 Areas
 The Commodity Flow Survey (CFS) records trade volume and trade values of various sectors between the US regions. The finest geographic units adopted by CFS are CFS areas, which are finer than states and more coarse than counties.
 
-The US Census Bureau publishes the shape file for 2017 CFS areas, which enables us to create maps and to analyze geography of CFS areas using QGIS or ArcGIS.
+The US Census Bureau publishes the shape file for 2017 CFS areas, which enables us to create maps and to analyze geography of CFS areas by using QGIS or ArcGIS.
 https://www.census.gov/programs-surveys/cfs/technical-documentation/geographies.html
 On the other hand, the Census Bureau gives trade data across CFS areas.
 https://www.census.gov/data/tables/2017/econ/cfs/aff-2017.html
@@ -18,6 +18,4 @@ Therefore I made a concordance table that maps identifiers for CFS areas in the 
 - geoid_trade: the identifiers for CFS areas in the trade data
 - geottl_trade: the names of CFS areas in the trade data
 
-Motoaki Takahashi
-
-February 25, 2021
+February 26, 2021
